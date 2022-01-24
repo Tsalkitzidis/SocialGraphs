@@ -1,7 +1,7 @@
 
 02805 Social graphs and interactions
 --------------------
-This repository contains the work of Kiriakos Tsalkitzidis s202669@student.dtu.dk, Sebastian Ekpete s212266@student.dtu.dk, and Vetle Ottem Frantzvaag s203121@student.dtu.dk in the course [02805 Social graphs and interactions](https://kurser.dtu.dk/course/02805) offered by the Technical University of Denmark.
+This repository contains the work of Sebastian Ekpete s212266@student.dtu.dk, Vetle Ottem Frantzvaag s203121@student.dtu.dk and Kiriakos Tsalkitzidis s202669@student.dtu.dk in the course [02805 Social graphs and interactions](https://kurser.dtu.dk/course/02805) offered by the Technical University of Denmark.
 
 The repository contains our solution to the final project - the result can be seen at http://socialpokemon.dk/.
 
